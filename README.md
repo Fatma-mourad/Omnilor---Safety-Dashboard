@@ -9,7 +9,8 @@ Team: Cross-functional internship team
 Deliverables: 12 UI screens, design system, and Github Repo
 Tools: Figma, Claude, Obsidian
 
-![Uploading Omni Mockup.png…]()
+<img width="4095" height="3071" alt="Omni Mockup" src="https://github.com/user-attachments/assets/49cc5bb0-e343-4838-9446-20f00d22b469" />
+
 
 
 
